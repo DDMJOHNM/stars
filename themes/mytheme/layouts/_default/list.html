@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="mt-3 text-center">
+    {{ .Name | humanize }}
+  </h1>
+
+  {{ if eq .Kind "taxonomyTerm" }}
+    {{ range $.Site.Taxonomies.tags.ByCount }}
+      <ul class="list-group">
+        <li class="list-group-item">
+            <a class="text-body" href="/tags{{ .Name | relURL }}">{{ .Name | markdownify }}</a>
+        </li>
+      </ul>
+    {{ end }}
+  
+ 
+  {{ end }}
+
+</div>
+{{ end }}

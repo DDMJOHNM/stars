@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts copies on Stars and the Underground</title>
+    <link>http://example.org/posts-copy/</link>
+    <description>Recent content in Posts copies on Stars and the Underground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 11:02:59 +1200</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts-copy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News July 2020</title>
+      <link>http://example.org/posts-copy/news-july-2020/</link>
+      <pubDate>Fri, 17 Jul 2020 11:02:59 +1200</pubDate>
+      
+      <guid>http://example.org/posts-copy/news-july-2020/</guid>
+      <description>Join us for a night of Post Punk, Goth and Darkwave bands and DJs bringing the dark club vibes party like its 1980, 1990 or 2020.
+Stars and the Underground after a successful tour in Australia in 2019 and performances with Drab Majesty(US) and at Shadowplay in Wellington hit the road again to Celebrate the release of their new single &amp;ldquo;Nosferatu Upon Tyne&amp;rdquo;.
+They play a unique mix of Post Punk, Shoegaze and Dark Electronic music.</description>
+    </item>
+    
+    <item>
+      <title>Update June 2020</title>
+      <link>http://example.org/posts-copy/update-june-2020/</link>
+      <pubDate>Sat, 06 Jun 2020 13:30:07 +1200</pubDate>
+      
+      <guid>http://example.org/posts-copy/update-june-2020/</guid>
+      <description>Slowly life is returning to normal in New Zealand, well as normal as it can be. After months in isolation our first meetup as a group occurs tomorrow we will of course exercising social distancing.
+We meet at John Mcdermott studio&amp;rsquo;s to mix the first song off our new album. We are excited&amp;hellip;
+We have a collection of material accumulating both recorded and in demo form which we will work through to complete and decide whether we will use it for the album.</description>
+    </item>
+    
+    <item>
+      <title>News: New Single</title>
+      <link>http://example.org/posts-copy/_news-new-single-31-12-2019/</link>
+      <pubDate>Sun, 01 Mar 2020 15:27:44 +1300</pubDate>
+      
+      <guid>http://example.org/posts-copy/_news-new-single-31-12-2019/</guid>
+      <description>We recorded a new single &amp;ldquo;Nosferatu Upon Tyne&amp;rdquo; at Arch Hill Recording Studios in Auckland with John McDermott.
+The recording session was the first for our new bass player Ari and our keyboard player Cat.
+We enjoyed track laying with John and the drums he laid down were awesome.
+Another session will be required to tie some loose ends on the track and to mix.
+Then the virus hit&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>

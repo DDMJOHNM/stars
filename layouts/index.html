@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="jumbotron">
+    <div class="container">      
+     <p class="lead">New Zealand Based Post Punk, Goth, Shoegaze and Dark Electronic Music Band</p>
+    </div>        
+</div>
+
+
+{{ $section := "posts" }}
+{{ $section2:= "releases" }}
+{{ $section3:= "shows" }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <ul class="list-group">
+        <h4>Latest Post</h4>
+        {{ range last 1 (where .Site.RegularPages.ByTitle "Section" $section )}}
+          <li class="list-group-item">
+              <a class="pt-3"  href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
+              <p class="text-muted pt-2">{{.Params.Date}}</p>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+    <div class="col-sm">
+      <ul class="list-group">
+        <h4>Latest Release</h4>
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section2 )}}
+          <li class="list-group-item">
+              <a class="pt-3" href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
+              <p class="text-muted pt-2">{{.Params.Date}}</p>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+    <div class="col-sm">
+      <ul class="list-group">
+        <h4>Latest Show</h4>
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section3 )}}
+          <li class="list-group-item">
+            <a class="pt-3" href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
+            <p class="text-muted pt-2">{{.Params.Date}}</p>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+
+  
+
+{{ end }}
+
+
+

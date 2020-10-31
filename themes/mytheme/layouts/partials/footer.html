@@ -1,0 +1,21 @@
+{{ with .Site.GetPage "/releases" }}
+<footer class="footer mt-5">
+     <div class="container text-center">
+        <a class="text-center" href="https://www.instagram.com/starsandtheunderground/?hl=en" >
+          Instagram 
+        </a> |     
+        <a class="text-center" href="https://www.facebook.com/starsandtheunderground/" >
+          Facebook 
+        </a> |
+        <a class="text-center" href="https://twitter.com/starsandtheund1" >
+          Twitter
+        </a>
+      </div>
+      <div class="container text-center">
+        <a class="text-center" href="{{ .Site.BaseURL }}" >
+          &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        </a>
+      </div>
+</footer>
+{{ end }}
+      

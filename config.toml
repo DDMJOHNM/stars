@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Stars and the Underground"
+theme = "mytheme"
+relativeURLS = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[menu]  
+  
+    [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 120
+
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 120
+
+    [[menu.main]]
+    identifier = "releases"
+    name = "Releases"
+    url = "/releases/"
+    weight = 120
+
+    [[menu.main]]
+    identifier = "press"
+    name = "Press"
+    url = "/press/"
+    weight = 120
+
+    [[menu.main]]
+    identifier = "shows"
+    name = "Shows"
+    url = "/shows/"
+    weight = 120
+
+ [params]
+  mainSections = ["posts", "releases","shows"]   
+
+
+ 
+ 
+  
