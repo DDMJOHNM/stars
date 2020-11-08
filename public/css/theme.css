@@ -69,10 +69,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   }
   
 .main{
-  min-height: calc(90vh - 70px);
+  min-height: calc(90vh - 70px);  
   opacity:0;
 
 }
+
 
 .navbar-light .navbar-toggler-icon{
   color:white;
