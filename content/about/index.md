@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-10-12T15:23:17+13:00
-draft: true
+draft: false
 ---
 
 Stars and the Underground was originally the solo project of John Mason a singer/songwriter based in Auckland, New Zealand (formally of NZ Goth Rockers Winterland).

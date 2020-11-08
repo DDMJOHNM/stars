@@ -39,6 +39,11 @@
 *::after {
   box-sizing: border-box; }
 
+.logo{
+   margin:5pt;
+   height:40pt; 
+}
+
 .logo.rotate{
    margin:5pt;
    height:40pt;  
