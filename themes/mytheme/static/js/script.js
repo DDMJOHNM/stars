@@ -16,11 +16,11 @@ document.addEventListener("DOMContentLoaded", function(e){
         document.querySelector('.logo').classList.add('rotate');  
         document.querySelector('.main').style.opacity = 0;   
         document.querySelector('.main .container').style.opacity = 0;          
-        document.querySelector('.main').style.transition = "opacity 1s ease-in-out 0.5s";    
+        document.querySelector('.main').style.transition = "opacity 0.5s ease-in-out 0.5s";    
         // document.querySelector('.logo').style.animation = "rotation 5s infinite linear";       
         // document.querySelector('.logo').style.animationPlayState = "running"; 
                 
-        let interval = setInterval(pageDisplay, 1500 );
+        let interval = setInterval(pageDisplay, 200 );
 
         let els =  document.querySelectorAll('.nav-link');
         els.forEach((el)=>{

@@ -1,10 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Stars and the Underground"
 theme = "mytheme"
 relativeURLS = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+googleAnalytics="UA-129726383-1" 
 
 [menu]  
   
@@ -40,8 +41,33 @@ pygmentsUseClasses = true
 
  [params]
   mainSections = ["posts", "releases","shows"]   
+  env = "production"    
 
+[deployment]
+# By default, files are uploaded in an arbitrary order.
+# Files that match the regular expressions in the "Order" list
+# will be uploaded first, in the listed order.
+order = [".jpg$",".png$",".gif$",".css$",".js$"]
 
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "gcs"
+URL = "gs://www.satu.co.nz"
+
+[[deployment.matchers]]
+#  Cache static assets for 20 years.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+# cacheControl = "max-age=630720000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+# cacheControl = "max-age=630720000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
  
  
   

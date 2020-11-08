@@ -42,7 +42,7 @@
 .logo.rotate{
    margin:5pt;
    height:40pt;  
-   animation: rotate 1.5s linear infinite;  
+   animation: rotate 5s linear infinite;  
 }
 
 @keyframes rotate{

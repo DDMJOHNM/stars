@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stars and the Underground</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on Stars and the Underground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>October 2020 Press Shots</title>
-      <link>http://example.org/posts/oct_2020_shoot/</link>
+      <link>/posts/oct_2020_shoot/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/oct_2020_shoot/</guid>
+      <guid>/posts/oct_2020_shoot/</guid>
       <description>Photos : by Mark Wallbank
 Absent : Sean O&amp;rsquo;Kane Connolly</description>
     </item>
     
     <item>
       <title>19/9/2020 Nirvara Lounge Hamilton</title>
-      <link>http://example.org/shows/19-9-2020-nirvara-lounge-hamilton/</link>
+      <link>/shows/19-9-2020-nirvara-lounge-hamilton/</link>
       <pubDate>Sat, 19 Sep 2020 17:12:59 +1300</pubDate>
       
-      <guid>http://example.org/shows/19-9-2020-nirvara-lounge-hamilton/</guid>
+      <guid>/shows/19-9-2020-nirvara-lounge-hamilton/</guid>
       <description>                          </description>
     </item>
     
     <item>
       <title>Nosferatu Upon Tyne Single Release</title>
-      <link>http://example.org/posts/nosferatu-upon-tyne-single-releases/</link>
+      <link>/posts/nosferatu-upon-tyne-single-releases/</link>
       <pubDate>Wed, 12 Aug 2020 22:44:42 +1300</pubDate>
       
-      <guid>http://example.org/posts/nosferatu-upon-tyne-single-releases/</guid>
+      <guid>/posts/nosferatu-upon-tyne-single-releases/</guid>
       <description>We have quite a number of people to thank for their efforts in supporting our single release.
 A huge thanks to Eleanor Rayner of Robots in Love for her efforts in remixing &amp;ldquo;Nosferatu Upon Tyne&amp;rdquo;.
 A massive thanks to Mark Wallbank our long term collabator with all things really is there nothing he cannot lend his hand to!
@@ -44,10 +44,10 @@ A massive thanks to the friends and fans that turned up to our show and Ivan at 
     
     <item>
       <title>Nosferatu Upon Tyne Single</title>
-      <link>http://example.org/releases/nosferatu-upon-tyne-12-08-2020/</link>
+      <link>/releases/nosferatu-upon-tyne-12-08-2020/</link>
       <pubDate>Wed, 12 Aug 2020 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/releases/nosferatu-upon-tyne-12-08-2020/</guid>
+      <guid>/releases/nosferatu-upon-tyne-12-08-2020/</guid>
       <description>Releases      Released: August 12th, 2020
 Digital Platforms [bandcamp link here]
 John Mason -Vocals,Guitars
@@ -64,56 +64,56 @@ Words and Music Stars and the Underground</description>
     
     <item>
       <title>19/11/2019 Shadowplay Moon 1 Wellington</title>
-      <link>http://example.org/shows/19-11-2019-shadowplay-wellington/</link>
+      <link>/shows/19-11-2019-shadowplay-wellington/</link>
       <pubDate>Tue, 19 Nov 2019 17:12:59 +1300</pubDate>
       
-      <guid>http://example.org/shows/19-11-2019-shadowplay-wellington/</guid>
+      <guid>/shows/19-11-2019-shadowplay-wellington/</guid>
       <description>                </description>
     </item>
     
     <item>
       <title>17/8/2019 Freaking the Dog Thirsty Dog Auckland</title>
-      <link>http://example.org/shows/17-8-2019-freaking-the-dog-auckland/</link>
+      <link>/shows/17-8-2019-freaking-the-dog-auckland/</link>
       <pubDate>Sat, 17 Aug 2019 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/shows/17-8-2019-freaking-the-dog-auckland/</guid>
+      <guid>/shows/17-8-2019-freaking-the-dog-auckland/</guid>
       <description>           </description>
     </item>
     
     <item>
       <title>06/07/2019 Swallow the Rat, Mothra, Robots in Love, Whammy Bar Auckland</title>
-      <link>http://example.org/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</link>
+      <link>/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</link>
       <pubDate>Sat, 06 Jul 2019 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</guid>
+      <guid>/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</guid>
       <description>           </description>
     </item>
     
     <item>
       <title>Streamers - Live at Whammy Bar - Video</title>
-      <link>http://example.org/releases/streamers-video/</link>
+      <link>/releases/streamers-video/</link>
       <pubDate>Sat, 06 Jul 2019 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/releases/streamers-video/</guid>
+      <guid>/releases/streamers-video/</guid>
       <description>Produced and Directed By Mark Wallbank
   </description>
     </item>
     
     <item>
       <title>1/6/2019 Australian Tour Dates with Sounds Like Winter, Lichtbeuger and Guests</title>
-      <link>http://example.org/shows/1-6-2019-australia-tour-2019/</link>
+      <link>/shows/1-6-2019-australia-tour-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/shows/1-6-2019-australia-tour-2019/</guid>
+      <guid>/shows/1-6-2019-australia-tour-2019/</guid>
       <description>                     </description>
     </item>
     
     <item>
       <title>Evolution Circle Ep</title>
-      <link>http://example.org/releases/evolution-circle-ep-01-06-2019/</link>
+      <link>/releases/evolution-circle-ep-01-06-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/releases/evolution-circle-ep-01-06-2019/</guid>
+      <guid>/releases/evolution-circle-ep-01-06-2019/</guid>
       <description>Released: June 1, 2019
 Digital Platforms Limited Edition AU/NZ Sampler [bandcamp link here]
 John Mason -Vocals,Guitars,Programming
@@ -130,66 +130,66 @@ Words and Music John Mason
     
     <item>
       <title>Twilight By Design - Video</title>
-      <link>http://example.org/releases/twilight-by-design-video/</link>
+      <link>/releases/twilight-by-design-video/</link>
       <pubDate>Mon, 25 Feb 2019 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/releases/twilight-by-design-video/</guid>
+      <guid>/releases/twilight-by-design-video/</guid>
       <description>Produced and Directed By Mark Wallbank
   </description>
     </item>
     
     <item>
       <title>27/1/2019 Drab Majesty Whammy Auckland</title>
-      <link>http://example.org/shows/27-1-2019-drab-majesty_whammy_auckland/</link>
+      <link>/shows/27-1-2019-drab-majesty_whammy_auckland/</link>
       <pubDate>Sun, 27 Jan 2019 17:12:59 +1300</pubDate>
       
-      <guid>http://example.org/shows/27-1-2019-drab-majesty_whammy_auckland/</guid>
+      <guid>/shows/27-1-2019-drab-majesty_whammy_auckland/</guid>
       <description>           </description>
     </item>
     
     <item>
       <title>8/12/2018 Permanence Thirsty Dog Auckland</title>
-      <link>http://example.org/shows/8-12-2018-permanence-thirsty-dog-auckland/</link>
+      <link>/shows/8-12-2018-permanence-thirsty-dog-auckland/</link>
       <pubDate>Sat, 08 Dec 2018 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/shows/8-12-2018-permanence-thirsty-dog-auckland/</guid>
+      <guid>/shows/8-12-2018-permanence-thirsty-dog-auckland/</guid>
       <description>           </description>
     </item>
     
     <item>
       <title>28/08/2018 Lichtbeuger, PTSD Ding Dong Lounge Auckland</title>
-      <link>http://example.org/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</link>
+      <link>/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</link>
       <pubDate>Tue, 28 Aug 2018 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</guid>
+      <guid>/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</guid>
       <description>           </description>
     </item>
     
     <item>
       <title>Bring it Down - Video</title>
-      <link>http://example.org/releases/bring-it-down-video/</link>
+      <link>/releases/bring-it-down-video/</link>
       <pubDate>Fri, 16 Jun 2017 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/releases/bring-it-down-video/</guid>
+      <guid>/releases/bring-it-down-video/</guid>
       <description>Produced and Directed By Mark Wallbank
   </description>
     </item>
     
     <item>
       <title>5/02/2017 Ikon, Sounds Like Winter, Disjectamembra Whammy Auckland</title>
-      <link>http://example.org/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</link>
+      <link>/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</link>
       <pubDate>Sun, 05 Feb 2017 00:51:16 +1300</pubDate>
       
-      <guid>http://example.org/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</guid>
+      <guid>/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</guid>
       <description>           </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/press/</link>
+      <link>/press/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/press/</guid>
+      <guid>/press/</guid>
       <description>Nosferatu Upon Type Single Review by Darryn Baser music.net.nz Being an OG (old goth or original goth) from the 1980&amp;rsquo;s I love me a bit of goth. Stars and the Underground are a nice bit of goth who have just released a single.
 It’s a seldom admitted bit of folklore that many goths have a great sense of humour, it seems the members of Stars and the Underground have a lighter side of the dark side.</description>
     </item>

@@ -39,11 +39,16 @@
 *::after {
   box-sizing: border-box; }
 
-.logo{
-  margin:5pt;
-  width:50pt;
-  
+.logo.rotate{
+   margin:5pt;
+   height:40pt;  
+   animation: rotate 5s linear infinite;  
 }
+
+@keyframes rotate{
+  to{ transform: rotate(360deg); }
+}
+
 
 html {
   font-family: sans-serif;
@@ -80,6 +85,9 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   background-color: white;
 }
 
+.navbar-brand{
+  margin-left: 10pt;
+}
   code {
     font-size: 80%;
   }

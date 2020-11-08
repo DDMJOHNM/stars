@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/oct_2020_shoot/</loc>
+    <loc>/posts/oct_2020_shoot/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/19-9-2020-nirvara-lounge-hamilton/</loc>
+    <loc>/shows/19-9-2020-nirvara-lounge-hamilton/</loc>
     <lastmod>2020-09-19T17:12:59+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/</loc>
+    <loc>/shows/</loc>
     <lastmod>2020-09-19T17:12:59+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/nosferatu-upon-tyne-single-releases/</loc>
+    <loc>/posts/nosferatu-upon-tyne-single-releases/</loc>
     <lastmod>2020-08-12T22:44:42+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/releases/nosferatu-upon-tyne-12-08-2020/</loc>
+    <loc>/releases/nosferatu-upon-tyne-12-08-2020/</loc>
     <lastmod>2020-08-12T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/releases/</loc>
+    <loc>/releases/</loc>
     <lastmod>2020-08-12T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/19-11-2019-shadowplay-wellington/</loc>
+    <loc>/shows/19-11-2019-shadowplay-wellington/</loc>
     <lastmod>2019-11-19T17:12:59+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/17-8-2019-freaking-the-dog-auckland/</loc>
+    <loc>/shows/17-8-2019-freaking-the-dog-auckland/</loc>
     <lastmod>2019-08-17T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</loc>
+    <loc>/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</loc>
     <lastmod>2019-07-06T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/releases/streamers-video/</loc>
+    <loc>/releases/streamers-video/</loc>
     <lastmod>2019-07-06T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/1-6-2019-australia-tour-2019/</loc>
+    <loc>/shows/1-6-2019-australia-tour-2019/</loc>
     <lastmod>2019-06-01T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/releases/evolution-circle-ep-01-06-2019/</loc>
+    <loc>/releases/evolution-circle-ep-01-06-2019/</loc>
     <lastmod>2019-06-01T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/releases/twilight-by-design-video/</loc>
+    <loc>/releases/twilight-by-design-video/</loc>
     <lastmod>2019-02-25T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/27-1-2019-drab-majesty_whammy_auckland/</loc>
+    <loc>/shows/27-1-2019-drab-majesty_whammy_auckland/</loc>
     <lastmod>2019-01-27T17:12:59+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/8-12-2018-permanence-thirsty-dog-auckland/</loc>
+    <loc>/shows/8-12-2018-permanence-thirsty-dog-auckland/</loc>
     <lastmod>2018-12-08T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</loc>
+    <loc>/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</loc>
     <lastmod>2018-08-28T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/releases/bring-it-down-video/</loc>
+    <loc>/releases/bring-it-down-video/</loc>
     <lastmod>2017-06-16T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</loc>
+    <loc>/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</loc>
     <lastmod>2017-02-05T00:51:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/press/</loc>
+    <loc>/press/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
