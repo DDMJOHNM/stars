@@ -3,32 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/obscura-undead-comp/</loc>
+    <lastmod>2021-01-01T20:04:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-01-01T20:04:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-01T20:04:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/shows/19-12-2020-concierto-solidario/</loc>
+    <lastmod>2020-12-14T20:04:04+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/shows/</loc>
+    <lastmod>2020-12-14T20:04:04+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/concierto-solidario/</loc>
+    <lastmod>2020-12-13T20:04:04+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2020-10-12T15:23:17+13:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/oct_2020_shoot/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>/posts/photo-shoot-oct-2020/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/shows/19-9-2020-nirvara-lounge-hamilton/</loc>
-    <lastmod>2020-09-19T17:12:59+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/shows/</loc>
     <lastmod>2020-09-19T17:12:59+13:00</lastmod>
   </url>
   

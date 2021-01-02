@@ -15,7 +15,7 @@
     <div class="col-sm">
       <ul class="list-group">
         <h4>Latest Post</h4>
-        {{ range last 1 (where .Site.RegularPages.ByTitle "Section" $section )}}
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section )}}
           <li class="list-group-item">
               <a class="pt-3"  href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
               <p class="text-muted pt-2">{{.Params.Date}}</p>
