@@ -34,8 +34,10 @@ For Stars this will be the release of the first single off our forthcoming album
 
 **John Mason** - Vocals, Guitars/Programming
 
-**Sean OKane Connolly** - Keyboards/Programming
-
 **Cat Veen** - Keyboards/Vocals
 
 **Ario Kimber Manufui** - Bass Guitar
+
+### Past Members
+
+**Sean OKane Connolly** - Keyboards/Programming
