@@ -6,10 +6,19 @@
     <description>Recent content in Shows on Stars and the Underground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 May 2021 00:51:16 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 18 Dec 2021 00:51:16 +1300</lastBuildDate>
     
 	<atom:link href="/shows/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22/1/2022 Gathering Shadows, Valhalla, Wellington</title>
+      <link>/shows/21-1-2022-gathering-shadows/</link>
+      <pubDate>Sat, 18 Dec 2021 00:51:16 +1300</pubDate>
+      
+      <guid>/shows/21-1-2022-gathering-shadows/</guid>
+      <description>      </description>
+    </item>
     
     <item>
       <title>31/7/2021 Lichtbeuger, Creassault, Stars and the Underground, Thirsty Dog, Auckland</title>

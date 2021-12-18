@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on Stars and the Underground</title>
+    <link>/releases/</link>
+    <description>Recent content in Releases on Stars and the Underground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 00:51:16 +1300</lastBuildDate>
+    
+	<atom:link href="/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nosferatu Upon Tyne Single</title>
+      <link>/releases/nosferatu-upon-tyne-12-08-2020/</link>
+      <pubDate>Wed, 12 Aug 2020 00:51:16 +1300</pubDate>
+      
+      <guid>/releases/nosferatu-upon-tyne-12-08-2020/</guid>
+      <description>Releases      Released: August 12th, 2020
+Digital Platforms [bandcamp link here]
+John Mason -Vocals,Guitars
+Sean O&amp;rsquo;Kane Connolly -Keyboards/Vocals
+Cat Veen -Keyboards/Vocals
+Ario Kimber Manufui -Bass/Vocals
+John McDermott -Drums
+Recorded &amp;amp; Mixed By John McDermott @ Arch Hill Studios
+Mastered By Simon Polinski @Hesius Dome Melbourne
+Produced by Stars and the Underground &amp;amp; John McDermott
+Remix by Elenor Rayner of Robots In Love
+Words and Music Stars and the Underground</description>
+    </item>
+    
+    <item>
+      <title>Streamers - Live at Whammy Bar - Video</title>
+      <link>/releases/streamers-video/</link>
+      <pubDate>Sat, 06 Jul 2019 00:51:16 +1300</pubDate>
+      
+      <guid>/releases/streamers-video/</guid>
+      <description>Produced and Directed By Mark Wallbank
+  </description>
+    </item>
+    
+    <item>
+      <title>Evolution Circle Ep</title>
+      <link>/releases/evolution-circle-ep-01-06-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:51:16 +1300</pubDate>
+      
+      <guid>/releases/evolution-circle-ep-01-06-2019/</guid>
+      <description>Released: June 1, 2019
+Digital Platforms Limited Edition AU/NZ Sampler [bandcamp link here]
+John Mason -Vocals,Guitars,Programming
+Sean O&amp;rsquo;Kane Connolly -Keyboards/Vocals
+Mark Wallbank -Keyboards/Samples
+Mixed By Darryn Harkness
+Produced by Stars and the Underground &amp;amp; Darryn Harkness
+Words and Music John Mason
+1.Echolocation 03:36
+2.Have a Heart 02:49
+3.Twilight by Design 03:50
+4.Quiet Remix (By Ashes the Condition) 04:14</description>
+    </item>
+    
+    <item>
+      <title>Twilight By Design - Video</title>
+      <link>/releases/twilight-by-design-video/</link>
+      <pubDate>Mon, 25 Feb 2019 00:51:16 +1300</pubDate>
+      
+      <guid>/releases/twilight-by-design-video/</guid>
+      <description>Produced and Directed By Mark Wallbank
+  </description>
+    </item>
+    
+    <item>
+      <title>Bring it Down - Video</title>
+      <link>/releases/bring-it-down-video/</link>
+      <pubDate>Fri, 16 Jun 2017 00:51:16 +1300</pubDate>
+      
+      <guid>/releases/bring-it-down-video/</guid>
+      <description>Produced and Directed By Mark Wallbank
+  </description>
+    </item>
+    
+  </channel>
+</rss>
