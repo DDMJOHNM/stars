@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="jumbotron">
     <div class="container">      
-     <p class="lead">New Zealand Based Post Punk, Goth, Shoegaze and Dark Electronic Music Band</p>
+     <!-- <p class="lead">New Zealand Based Post Punk, Goth, Shoegaze and Dark Electronic Music Band</p> -->
     </div>        
 </div>
 
@@ -11,41 +11,106 @@
 {{ $section3:= "shows" }}
 
 <div class="container">
-  <div class="row">
+  <div class="row">   
+    <div class="container">
+      <h1 class="text-center">Feature Activity</h1>
+    
+      <div class="row">
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section3 )}}
+          {{ $images := .Resources.ByType "image" }}
+          {{ $image := index $images 0 }}
+          {{ $image := $image.Fill "512x360 smart" }}
+    
+          <div class="col-md-6 col-lg-4">
+            <div class="card">
+              <img class="card-img-top" src="{{ $image.RelPermalink }}">
+              <div class="card-body">
+                <h5 class="card-title">{{ .Title }}</h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{ .Date.Format "Jan 2, 2006" }}</h6>
+             
+                <a href="{{ .RelPermalink }}" class="btn btn-primary">See all</a>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section2 )}}
+        {{ $images := .Resources.ByType "image" }}
+        {{ $image := index $images 0 }}
+        {{ $image := $image.Fill "512x360 smart" }}
+  
+        <div class="col-md-6 col-lg-4">
+          <div class="card">
+            <img class="card-img-top" src="{{ $image.RelPermalink }}">
+            <div class="card-body">
+              <h5 class="card-title">{{ .Title }}</h5>
+              <h6 class="card-subtitle mb-2 text-muted">{{ .Date.Format "Jan 2, 2006" }}</h6>
+              
+              <a href="{{ .RelPermalink }}" class="btn btn-primary">See all</a>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+      {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section )}}
+      {{ $images := .Resources.ByType "image" }}
+      {{ $image := index $images 0 }}
+      {{ $image := $image.Fill "512x360 smart" }}
+
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <img class="card-img-top" src="{{ $image.RelPermalink }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ .Title }}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{ .Date.Format "Jan 2, 2006" }}</h6>
+            
+            <a href="{{ .RelPermalink }}" class="btn btn-primary">See all</a>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+      </div>
+
+
+
+
+
+    <!-- <div class="col-sm">
+      
+      <ul class="list-group">
+        <h4>Latest Show</h4>
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section3 )}}
+          <li class="list-group-item">
+            <a class="pt-3" href="{{ .Permalink }}">{{ .Params.title | humanize | title }} 
+              <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image }}"></a>       
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+    <div class="col-sm">      
+      <ul class="list-group">
+        <h4>Latest Release</h4>
+        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section2 )}}
+          <li class="list-group-item">
+            <a class="pt-3" href="{{ .Permalink }}">{{ .Params.title | humanize | title }}
+              <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image2 }}">
+            </a>  
+            
+          </li>
+        {{ end }}
+      </ul>
+    </div>   
     <div class="col-sm">
       <ul class="list-group">
         <h4>Latest Post</h4>
         {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section )}}
           <li class="list-group-item">
-              <a class="pt-3"  href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
-              <p class="text-muted pt-2">{{.Params.Date}}</p>
+            <a class="pt-1" href="{{ .Permalink }}">{{ .Params.title | humanize | title }}
+              <img src="{{ .Params.featured_image }}" alt="{{ .Params.featured_image }}">
+            </a>   
           </li>
         {{ end }}
       </ul>
-    </div>
-    <div class="col-sm">
-      <ul class="list-group">
-        <h4>Latest Release</h4>
-        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section2 )}}
-          <li class="list-group-item">
-              <a class="pt-3" href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
-              <p class="text-muted pt-2">{{.Params.Date}}</p>
-          </li>
-        {{ end }}
-      </ul>
-    </div>
-    <div class="col-sm">
-      <ul class="list-group">
-        <h4>Latest Show</h4>
-        {{ range last 1 (where .Site.RegularPages.ByDate "Section" $section3 )}}
-          <li class="list-group-item">
-            <a class="pt-3" href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
-            <p class="text-muted pt-2">{{.Params.Date}}</p>
-          </li>
-        {{ end }}
-      </ul>
-    </div>
-  </div>
+    </div>  --> 
+  </div>  
 </div>
 
   

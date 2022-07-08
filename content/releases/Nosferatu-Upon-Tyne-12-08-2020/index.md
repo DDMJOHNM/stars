@@ -2,6 +2,7 @@
 title: "Nosferatu Upon Tyne Single"
 date: 2020-08-12T00:51:16+13:00
 draft: false
+featured_image: "releases/nosferatu-upon-tyne-12-08-2020/nosferatu_hu9ada243aabce419597a0bdad6a73ba12_442902_300x0_resize_q75_box.jpg"
 ---
 
 ## Releases

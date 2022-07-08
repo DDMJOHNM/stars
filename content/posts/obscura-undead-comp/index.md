@@ -2,6 +2,8 @@
 title: "Obscura Undead - Unobscured Comp Volume 2 2021"
 date: 2021-01-01T20:04:09+00:00
 draft: false
+featured_image: "posts/obscura-undead-comp/obscura.jpeg"
+
 ---
 
 {{<img obscura Resize "500x"/>}}

@@ -1,147 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/shows/20-8-2022-after-the-flesh/</loc>
+    <lastmod>2022-06-05T00:51:16+13:00</lastmod>
+  </url><url>
+    <loc>/shows/</loc>
+    <lastmod>2022-06-05T00:51:16+13:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-06-05T00:51:16+13:00</lastmod>
+  </url><url>
     <loc>/shows/21-1-2022-gathering-shadows/</loc>
     <lastmod>2021-12-18T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/shows/</loc>
-    <lastmod>2021-12-18T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-12-18T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/31-7-2021-lichtbeuger/</loc>
     <lastmod>2021-05-25T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/obscura-undead-comp/</loc>
     <lastmod>2021-01-01T20:04:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2021-01-01T20:04:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/19-12-2020-concierto-solidario/</loc>
     <lastmod>2020-12-14T20:04:04+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/concierto-solidario/</loc>
     <lastmod>2020-12-13T20:04:04+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2020-10-12T15:23:17+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/photo-shoot-oct-2020/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/19-9-2020-nirvara-lounge-hamilton/</loc>
     <lastmod>2020-09-19T17:12:59+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/nosferatu-upon-tyne-single-releases/</loc>
     <lastmod>2020-08-12T22:44:42+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/releases/nosferatu-upon-tyne-12-08-2020/</loc>
     <lastmod>2020-08-12T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/releases/</loc>
     <lastmod>2020-08-12T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/19-11-2019-shadowplay-wellington/</loc>
     <lastmod>2019-11-19T17:12:59+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/17-8-2019-freaking-the-dog-auckland/</loc>
     <lastmod>2019-08-17T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/6-7-2019-swallow-the-rat-mothra-whammy-auckland/</loc>
     <lastmod>2019-07-06T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/releases/streamers-video/</loc>
     <lastmod>2019-07-06T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/1-6-2019-australia-tour-2019-copy/</loc>
     <lastmod>2019-06-01T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/releases/evolution-circle-ep-01-06-2019/</loc>
     <lastmod>2019-06-01T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/releases/twilight-by-design-video/</loc>
     <lastmod>2019-02-25T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/27-1-2019-drab-majesty_whammy_auckland/</loc>
     <lastmod>2019-01-27T17:12:59+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/8-12-2018-permanence-thirsty-dog-auckland/</loc>
     <lastmod>2018-12-08T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/28-08-2018-lichtbeuger-ding_dong-lounge-auckland/</loc>
     <lastmod>2018-08-28T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/releases/bring-it-down-video/</loc>
     <lastmod>2017-06-16T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/shows/5-2-2017-ikon-sounds-like-winter-disjectamemba-whammy-auckland/</loc>
     <lastmod>2017-02-05T00:51:16+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/press/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
